@@ -1,0 +1,38 @@
+{
+    "name": "insomnia-plugin-dracula-soft-theme",
+    "version": "1.0.0",
+    "author": {
+        "name": "Carlos Gabriel Godri",
+        "email": "cggodri@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/godrix/insomnia-plugin-dracula-soft-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/godrix/insomnia-plugin-dracula-soft-theme/issues"
+    },
+    "homepage": "https://github.com/godrix/insomnia-plugin-dracula-soft-theme",
+    "description": "Dracula theme for Insomnia",
+    "license": "MIT",
+    "main": "plugin.js",
+    "insomnia": {
+        "name": "dracula-soft-theme",
+        "displayName": "Dracula soft theme",
+        "description": "A dark theme for Insomnia",
+        "images": {
+            "icon": "assets/icon.svg",
+            "cover": "assets/cover.png"
+        },
+        "publisher": {
+            "name": "Carlos G. Godri",
+            "icon": "https://avatars3.githubusercontent.com/u/5671881?v=4"
+        },
+        "keywords": [
+            "dracula",
+            "theme",
+            "insomnia",
+            "insomnia-plugin"
+        ]
+    }
+}
